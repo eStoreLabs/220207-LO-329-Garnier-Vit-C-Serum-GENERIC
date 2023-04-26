@@ -20,6 +20,7 @@ body {
   overflow: hidden;
   color: #111;
   background: #fff;
+  max-width: 998px;
 }
 
 #es-garnier.es-garnier * {
